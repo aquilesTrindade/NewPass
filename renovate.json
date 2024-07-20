@@ -3,5 +3,6 @@
    "extends": [
       "config:recommended"
    ],
-   "includeForks": true
+   "includeForks": true,
+   "autoMerge": true
 }
